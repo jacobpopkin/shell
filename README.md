@@ -1,1 +1,4 @@
 # shell
+<h1> My Project </h1>
+<p> The product I built was a website to allow for online ordering. 
+I used a third party application to help me build the website to make sure that it is very functional and easy to use. My main reason for building the website is to actually implement it at our restaurant. If i were to try and create it using what little HTML i do know it would not be as functional and work as well as I needed it to. You can access the website at [Damons Famous Fingers and Wings](damonsfamousfingers.com) In my video submission I explain how the website works and walk you through all the steps. </p>
